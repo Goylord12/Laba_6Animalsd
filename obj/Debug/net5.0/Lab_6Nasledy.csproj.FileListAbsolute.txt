@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Lab_6Nasledy\bin\Debug\net5.0\Lab_6Nasledy.exe
+C:\Users\Acer\source\repos\Lab_6Nasledy\bin\Debug\net5.0\Lab_6Nasledy.deps.json
+C:\Users\Acer\source\repos\Lab_6Nasledy\bin\Debug\net5.0\Lab_6Nasledy.runtimeconfig.json
+C:\Users\Acer\source\repos\Lab_6Nasledy\bin\Debug\net5.0\Lab_6Nasledy.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Lab_6Nasledy\bin\Debug\net5.0\Lab_6Nasledy.dll
+C:\Users\Acer\source\repos\Lab_6Nasledy\bin\Debug\net5.0\ref\Lab_6Nasledy.dll
+C:\Users\Acer\source\repos\Lab_6Nasledy\bin\Debug\net5.0\Lab_6Nasledy.pdb
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.dll
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\ref\Lab_6Nasledy.dll
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.pdb
+C:\Users\Acer\source\repos\Lab_6Nasledy\obj\Debug\net5.0\Lab_6Nasledy.genruntimeconfig.cache
